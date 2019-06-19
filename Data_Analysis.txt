@@ -1,0 +1,56 @@
+Then you will learn a methodical way to conduct EDA by breaking the process down into 5 steps - data sourcing, data cleaning, analysing variables individually, understanding the relationships between variables, and creating new variables. 
+
+The structure for analytics problem solving is called the CRISP-DM framework - Cross Industry Standard Process for Data Mining. 
+
+Business Understanding
+	1) Business Objective --> Expects ROI Is it 5%, 10% or 20%
+		i) Goals for Data Analysis
+		-> Analysis of current investment across
+			i) Sectors(mobile/tech etc)
+			ii) Cluster of sectors
+			
+	2) Understanding The data
+		i)Collect Relevant Data
+			i) Structured Data
+				
+		ii) Describe Data Sets(crunched based data)
+				i)Create Data Dictonary, Summarize the data
+		iii) Explore Data
+				i) Create Graphs in MS Excel or R to understand range of funding 
+		iv) Verify data quality( Check Data Quality)
+				i) Is the data complete , Types of Errors, Is the data correct , Are there any missing values , How common are the missing values.?
+		
+	3) Preparing Data For Analysis
+		i) Select Relevant Data
+		ii) Integrate Data
+		iii) Clean discrepencies
+		iv) Construct the data
+		v) Organizing the data which does not change its meaning
+		
+		
+		
+Heart of Data Analysis and Modelling
+
+Modelling is the heart of the data analytics.
+	1) Set of numbers 4,9,16,25
+	2) Models are always succcint( Clearly Expressed)
+	3) Mathematically Sound
+	4) Efficient and Easy to Use.
+	
+	How to model using the algorithms:
+		1) K-Means clustering algorithm
+		2) Partitional clustering algorithm
+		3) Hiearchial clustering algorithm
+		4) Association rule mining
+		
+		
+Modelling --> Family of Models --> Algorithm chosen from the family of models.
+
+
+Model Evaluation and Deployment
+
+
+
+	
+
+	
